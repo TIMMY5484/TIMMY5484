@@ -2,7 +2,7 @@
 - I’m interested in creating websites and games
 - I’m currently learning javascript, html, css and lua
 - You can reach me at [marshall@chatapp.one](mailto:marshall@chatapp.one)
-- My youtube is [@ThatOneKirbo](https://www.youtube.com/@ThatOneKirbo)
+- My youtube is [@Lua_72_1](https://www.youtube.com/@Lua_72_1)
 - My website is [chatapp.one](http://chatapp.one) 
 
 <!---
