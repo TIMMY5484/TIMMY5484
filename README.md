@@ -1,7 +1,7 @@
 - Hi, I’m @TIMMY5484
 - I’m interested in creating websites and games
 - I’m currently learning javascript, html, css and lua
-- You can reach me at [marshall@chatapp.one](mailto:marshall@chatapp.one)
+- You can reach me at [lua@chatapp.one](mailto:lua@chatapp.one)
 - My youtube is [@Lua_72_1](https://www.youtube.com/@Lua_72_1)
 - My website is [chatapp.one](http://chatapp.one) 
 
